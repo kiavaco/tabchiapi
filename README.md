@@ -21,7 +21,6 @@
 # Let's install the bot.
 cd $HOME
 git clone https://github.com/kiavaco/tabchiapi.git
-cd tabchiapi
 cd tabchiapi && cd bots
 screen python tabchi1.py
 
